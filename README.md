@@ -14,7 +14,7 @@ Standardization in the field of audit data services covers the content specifica
 1. Audit: an official examination of an entity’s financial and financial related records in order to check that they are correct. (Source: Longman Dictionary of Contemporary English 4th Edition, modifiedcompany has been replaced by entity to cover government auditees and financial related records has been added.)
 2. The audit data includes data of different areas including public sector budget, financial report, nonfinancial enterprises, tax and social insurance, for the purpose of government audit, external independent audit, internal audit and other regulators.
 
-###vExcluded:
+### Excluded:
 * Information system security audit covered by ISO/IEC/JTC 1.
 * Security evaluation criteria and methodology, techniques and guidelines to address both security and privacy aspects covered by ISO/IEC/JTC 1/SC 27.
 * Meta-data standards, E-business standards, database language standards covered by ISO/IEC/JTC 1/SC 32.
