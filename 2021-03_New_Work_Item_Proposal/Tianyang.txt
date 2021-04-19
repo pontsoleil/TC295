@@ -1,0 +1,93 @@
+
+ISO/IEC 19757-2:2008(en) Information technology — Document Schema Definition Language (DSDL) — Part 2: Regular-grammar-based validation — RELAX NG
+-- ISO/IEC JTC 1, Information technology, Subcommittee SC 34, Document description and processing languages.
+-- Normative reference
+   W3C XML, Extensible Markup Language (XML) 1.0 (Second Edition), W3C Recommendation, 6 October 2000, available at http://www.w3.org/TR/2000/REC-xml-20001006
+   W3C XML-Names, Namespaces in XML, W3C Recommendation, 14 January 1999, available at http://www.w3.org/TR/1999/REC-xml-names-19990114/
+   W3C XLink, XML Linking Language (XLink) Version 1.0, W3C Recommendation, 27 June 2001, available at http://www.w3.org/TR/2001/REC-xlink-20010627/
+   W3C XML-Infoset, XML Information Set, W3C Recommendation, 24 October 2001, available at http://www.w3.org/TR/2001/REC-xml-infoset-20011024/
+   IETF RFC 2045, Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies, Internet Standards Track Specification, November 1996, available at http://www.ietf.org/rfc/rfc2045.txt
+   IETF RFC 2046, Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types, Internet Standards Track Specification, November 1996, available at http://www.ietf.org/rfc/rfc2046.txt
+   IETF RFC 2396, Uniform Resource Identifiers (URI): Generic Syntax, Internet Standards Track Specification, August 1998, available at http://www.ietf.org/rfc/rfc2396.txt
+   IETF RFC 2732, Format for Literal IPv6 Addresses in URL's, Internet Standards Track Specification, December 1999, available at http://www.ietf.org/rfc/rfc2732.txt
+   IETF RFC 3023, XML Media Types, Internet Standards Track Specification, August 1998, available at http://www.ietf.org/rfc/rfc3023.txt
+
+ISO/TS 18876-1:2003(en) Industrial automation systems and integration — Integration of industrial data for exchange, access and sharing — Part 1: Architecture overview and description
+-- ISO/TC 184, Industrial automation systems and integration, Subcommittee SC 4, Industrial data
+-- Normative reference
+   ISO/IEC 8824-1, Information technology — Abstract Syntax Notation One (ASN.1) — Part 1: Specification of basic notation
+   ISO 10303-1:1994, Industrial automation systems and integration — Product data representation and exchange — Part 1: Overview and fundamental principles
+
+ISO/IEC 2382:2015(en) Information technology — Vocabulary
+-- ISO/IEC JTC 1, Information technology
+-- Normative reference
+   There are no normative references.
+
+ISO/IEC 11179-1:2015(en) Information technology — Metadata registries (MDR) — Part 1: Framework
+-- ISO/IEC JTC1, Information technology, SC32, Data management and interchang
+-- Normative reference
+   ISO 704:2009, Terminology work — Principles and methods
+   ISO 1087-1:2000, Terminology work — Vocabulary — Part 1: Theory and application
+   ISO/IEC 11179 (all parts), Information technology — Metadata registries (MDR)
+
+ISO/IEC 20006-1:2014(en)Information technology for learning, education and training — Information model for competency — Part 1: Competency general framework and information model
+-- ISO/IEC JTC 1, Information technology, Subcommittee SC 36, Information technology for learning, education and training.
+-- Normative reference
+   ISO/IEC 2382-36 (E/F), Information technology — Vocabulary — Part 36: Learning, education and training
+
+ISO/IEC 2382-36:2019(en) Information technology — Vocabulary — Part 36: Learning, education and training
+-- ISO/IEC JTC 1, Information technology, Subcommittee SC 36, Information technology for learning, education and training.
+-- Normative reference
+   There are no normative references.
+
+ISO/IEC 19778-1:2015(en) Information technology — Learning, education and training — Collaborative technology — Collaborative workplace — Part 1: Collaborative workplace data model
+-- ISO/IEC JTC 1, Information technology, Subcommittee SC 36, Information technology for learning, education and training.
+-- Normative reference
+   There are no normative references.
+
+ISO 26162-1:2019(en) Management of terminology resources — Terminology databases — Part 1: Design
+-- ISO/TC 37, Language and terminology, Subcommittee SC 3, Management of terminology resources.
+-- Normative reference
+   ISO 704, Terminology work — Principles and methods
+   ISO 1087, Terminology work — Vocabulary
+   ISO 12620, Management of terminology resources — Data category specifications
+   ISO 16642:2017, Computer applications in terminology — Terminological markup framework
+   ISO 23185, Assessment and benchmarking of terminological resources — General concepts, principles and requirements
+	 
+ISO/TR 17185-3:2015(en) Intelligent transport systems — Public transport user information — Part 3: Use cases for journey planning systems and their interoperation
+-- ISO/TC 204, Intelligence Transport Systems
+-- Normative reference
+   There are no normative references.
+
+ISO/IEC 16350:2015(en) Information technology — Systems and software engineering — Application management
+-- ISO/IEC JTC 1, Information technology, Subcommittee SC 7, Software and systems engineering
+-- Normative reference
+   There are no normative references.
+
+ISO 22307:2008(en) Financial services — Privacy impact assessment
+-- ISO/TC 68, Financial services, Subcommittee SC 7, Core banking
+-- Normative references
+   The following referenced documents are indispensable for the application of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.
+   OECD Guidelines on the protection of privacy and transborder flows of personal data, 1980
+
+ISO/IEC/IEEE 31320-2:2012(en) Information technology — Modeling Languages — Part 2: Syntax and Semantics for IDEF1X97 (IDEFobject)
+-- This standard was prepared by the Software & Systems Engineering Standards Committee of the IEEE Computer Society (as IEEE 1320.2-1998). It was adopted by Joint Technical Committee ISO/IEC JTC 1, Information technology, Subcommittee SC 7, Software and systems engineering, in parallel with its approval by the ISO/IEC national bodies, under the "fast-track procedure" defined in the Partner Standards Development Organization cooperation agreement between ISO and IEEE. IEEE is responsible for the maintenance of this document with participation and input from ISO/IEC national bodies.
+-- Normative reference
+   IEEE Std 100-1996, IEEE Standard Dictionary of Electrical and Electronics Terms.4
+
+ISO 5127:2017(en) Information and documentation — Foundation and vocabulary
+-- ISO/TC 46, Information and documentation
+-- Normative reference
+   There are no normative references in this document.
+
+ISO 28258:2013(en) Soil quality — Digital exchange of soil-related data
+-- ISO/TC 190, Soil quality, Subcommittee SC 1, Evaluation of criteria, terminology and codification
+-- Normative reference
+   ISO 11074, Soil quality — Vocabulary
+   ISO 15903, Soil quality — Format for recording soil and site information
+   ISO 19106:2004, Geographic information — Profiles
+   ISO 19109, Geographic information — Rules for application schema
+   ISO 19118, Geographic information — Encoding
+   ISO 19136, Geographic information — Geography Markup Language (GML)
+   ISO 19156:2011, Geographic information — Observations and measurements
+   ISO 25177:2008, Soil quality — Field soil description
