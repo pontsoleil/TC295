@@ -1,0 +1,76 @@
+Search "audit trail"
+
+ISO 14641:2018(en) Electronic document management — Design and operation of an information system for the preservation of electronic documents — Specifications
+-- 3.9 audit trail
+aggregate of the information necessary to provide a historical record of all significant events associated with stored information and the information system
+-- ISO/TC 171, Document management applications, Subcommittee SC 1, Quality, preservation and integrity of information
+-- Normative reference
+ISO 2859 (all parts), Sampling procedures for inspection by attributes
+ISO 8601, Data elements and interchange formats — Information interchange — Representation of dates and times
+ISO/TR 12033, Document management — Electronic imaging — Guidance for the selection of document image compression methods
+ISO 12653-1, Electronic imaging — Test target for the black-and-white scanning of office documents — Part 1: Characteristics
+ISO 12653-2, Electronic imaging — Test target for the black-and-white scanning of office documents — Part 2: Method of use
+
+ISO/IEC TR 10032:2003(en) Information technology — Reference Model of Data Management
+-- 2.7 audit trail
+a record of the activity taking place in an information system over a period of time
+-- ISO/IEC JTC 1, Information technology, Subcommittee SC 32, Data management and interchange
+
+ISO 12651-2:2014(en) Electronic document management — Vocabulary — Part 2: Workflow management
+-- 3.7 audit trail
+complete record of activities taking place within a workflow (3.46) or part thereof
+-- ISO/TC 171, Document management applications, Subcommittee SC 3, General issues
+
+ISO/IEC 2382:2015(en) Information technology — Vocabulary
+-- 2126376 audit trail
+<computer security> data collected for the potential use in a security audit
+-- ISO/IEC JTC 1, Information technology
+
+ISO/IEC 15944-12:2020(en) Information technology — Business operational view — Part 12: Privacy protection requirements (PPR) on information life cycle management (ILCM) and EDI of personal information (PI)
+-- 3.11 business transaction audit trail
+chronological record of IT system (3.59) activities that is sufficient to enable the reconstruction, reviewing and examination of the sequence of environments and activities surrounding or leading to an operation, a procedure, or an event pertaining to sets ofrecorded information (SRIs) (3.128) in a business transaction (3.10) through all its processes (3.100), i.e., from planning to the end of post-actualization
+-- ISO/IEC JTC 1, Information technology, Subcommittee SC 32, Data management and interchange
+-- Normative references
+ISO/IEC 14662:2010, Information technology — Open-edi reference model
+ISO/IEC 15944-1:—,8 Information technology — Business operational view — Part 1: Operational aspects of Open-edi for implementation
+ISO/IEC 15944-5:2008, Information technology — Business operational view — Part 5: Identification and referencing of requirements of jurisdictional domains as sources external constraints
+ISO/IEC 15944-8:2012, Information technology — Business operational view — Part 8: Identification of privacy protection requirements as external constraints on business transactions
+
+ISO/IEC 10181-7:1996(en) Information technology — Open Systems Interconnection — Security frameworks for open systems: Security audit and alarms framework — Part 7
+-- 3.5.9 audit trail collector
+A function that gathers records from a distributed audit trail into a security audit trail.
+-- ISO/IEC JTC 1, Information technology, Subcommittee SC 21, Open systems interconnection, data management and open distributed processing, in collaboration with ITU-T
+-- Normative references
+2.1   Identical Recommendations | International Standards
+ITU-T Recommendation X.200 (1994) | ISO/IEC 7498-1:1994, Information technology — Open Systems Interconnection — Basic Reference Model: The Basic Model.
+CCITT Recommendation X.734 (1992) | ISO/IEC 10164-5:1993, Information technology — Open Systems Interconnection — Systems management: Event report management function.
+CCITT Recommendation X.735 (1992) | ISO/IEC 10164-6:1993, Information technology — Open Systems Interconnection — Systems management: Log control function.
+CCITT Recommendation X.736 (1992) | ISO/IEC 10164-7:1992, Information technology — Open Systems Interconnection — Systems management: Security alarm reporting function.
+CCITT Recommendation X.740 (1992) | ISО/IЕС 10164-8:1993, Information technology — Open Systems Interconnection — Systems management: Security audit trail function.
+ITU-T Recommendation X.810 (1995) | ISО/IЕС 10181-1:1996, Information technology — Open Systems Interconnection — Security frameworks for open systems: Overview.
+2.2   Paired Recommendations | International Standards equivalent in technical content
+CCITT Recommendation X.700 (1992), Management framework for Open Systems Interconnection (OSI) for CCITT applications.
+ISO/IEC 7498-4:1989, Information processing systems — Open Systems Interconnection — Basic Reference Model — Part 4: Management framework.
+CCITT Recommendation X.800 (1991), Security Architecture for Open Systems Interconnection for CCITT applications.
+ISO 7498-2:1989, Information processing systems — Open Systems Interconnection — Basic Reference Model — Part 2: Security Architecture.
+
+ISO 7498-2:1989(en) Information processing systems — Open Systems Interconnection — Basic Reference Model — Part 2: Security Architecture
+-- 3.3.48 security audit trail
+Data collected and potentially used to facilitate a security audit.
+-- ISO/TC 97, Information processing systems
+-- References
+ISO 7498Information processing systems
+— Open Systems Interconnection
+— Basic Reference Model.
+ISO 7498-4Information processing systems
+— Open Systems Interconnection
+— Basic Reference Model
+— Part 4: Management Framework1)
+ISO 7498/Add.1Information processing systems
+— Open Systems Interconnection
+— Basic Reference Model
+— Addendum 1: Connectionless-mode transmission
+ISO 8648Information processing systems
+— Open Systems Interconnection
+— Internal organization of the Network Layer
+
