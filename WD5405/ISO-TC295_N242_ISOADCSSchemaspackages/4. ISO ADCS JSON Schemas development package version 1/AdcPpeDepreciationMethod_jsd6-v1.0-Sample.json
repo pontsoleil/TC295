@@ -1,0 +1,11 @@
+{
+	"PpeDepreMthd": [ {
+		"DepreMthdId": "DEP001",
+		"DepreMthdNm": "Straight",
+		"DepreMthdDscr": "Equal amounts in five years.",
+		"DepreFormula": "Purchase value divided by 5.",
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

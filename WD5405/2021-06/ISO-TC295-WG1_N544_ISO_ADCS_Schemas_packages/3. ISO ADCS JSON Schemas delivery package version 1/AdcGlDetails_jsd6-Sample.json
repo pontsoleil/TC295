@@ -1,0 +1,58 @@
+{
+	"GlDtls": [ {
+		"JrnId": "JRN1",
+		"JrnNr": "2020-02-01-1",
+		"GlAcntNr": "ACC123456789",
+		"FiscYr": 2020,
+		"AcntingPer": "M1",
+		"EffectiveDt": "2020-02-01",
+		"JrnLnNr": "1",
+		"JeTypCd": "JE001",
+		"JeHdrDscr": "Invoice payment.",
+		"JeLnDscr": "Line total payment.",
+		"SrcCd": "SOURCE1",
+		"BillNr": "1234",
+		"BillTypCd": "BL1",
+		"BillDt": "2020-02-01",
+		"Qt": 100.0000,
+		"UomCd": "KG",
+		"UnitPrice": 80.00000000,
+		"SetlMthdCd": "PT1",
+		"CrDbInd": "C",
+		"RevInd": "1",
+		"RevJrnId": "1",
+		"CnclSign": false,
+		"AcntSgEmp": "E001",
+		"AcntSgProj": "P001",
+		"AcntSgBankAcnt": "NL99BANK1234123412",
+		"TrAmt": {
+			"FuncAmt": 125.1255,
+			"FuncCurCd": "USD",
+			"TrAmt": 125.1255,
+			"TrCurCd": "USD",
+			"RprtAmt": 125.1255,
+			"RprtCurCd": "USD",
+			"LocAmt": 125.1255,
+			"LocCurCd": "USD"
+		},
+		"Crea": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"Aprv": {
+			"UserId": "JD",
+			"Dt": "2020-03-02"
+		},
+		"Posted": {
+			"UserId": "JD"
+		},
+		"AcntSg": [ {
+			"AcntSgNr": "1",
+			"AcntSgCd": "6900"
+		} ],
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

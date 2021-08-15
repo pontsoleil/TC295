@@ -1,0 +1,45 @@
+{
+	"SalInvoiGen": [ {
+		"InvoiId": "I001",
+		"InvoiNr": "IN1234",
+		"FiscYr": 2020,
+		"AcntingPer": "M1",
+		"OfficialInvoiCd": "INV001",
+		"InvoiTypNm": "Short term delivery",
+		"InvoiDt": "2020-02-01",
+		"InvoiDueDt": "2020-02-15",
+		"CustAcntId": "C00001",
+		"SetlMthdCd": "SC1",
+		"InvoiTrAmt": 10000.0000,
+		"InvoiTrCurCd": "USD",
+		"PayTermCd": "PT1",
+		"TrmsDscntPerc": 0.0100,
+		"TrmsDscntDays": 15,
+		"TrmsDueDays": 15,
+		"GrpCd": "GR1",
+		"Stat": "NEW",
+		"Rmrk": "Rush delivery.",
+		"Tax": [ {
+			"TaxTypCd": "TAX01",
+			"TaxTrAmt": 200.0000
+		} ],
+		"Crea": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"Aprv": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"LstMdf": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

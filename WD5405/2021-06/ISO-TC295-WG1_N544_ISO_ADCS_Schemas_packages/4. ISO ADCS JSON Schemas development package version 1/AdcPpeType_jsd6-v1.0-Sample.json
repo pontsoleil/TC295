@@ -1,0 +1,7 @@
+{
+	"PpeTyp": [ {
+		"TypCd": "TYP001",
+		"TypNm": "Computer",
+		"ParTypId": "TYP001"
+	} ]
+}

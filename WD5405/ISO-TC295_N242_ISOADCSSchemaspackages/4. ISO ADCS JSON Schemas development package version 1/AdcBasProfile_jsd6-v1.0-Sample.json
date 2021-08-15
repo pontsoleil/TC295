@@ -1,0 +1,19 @@
+{
+	"BasProfile": [ {
+		"ProfileNr": "PRF1",
+		"ProfileNm": "Period report.",
+		"FiscYr": 2020,
+		"AcntingEntity": "Trade Company",
+		"Industry": "Trade",
+		"DvlprNm": "ERP SYSTEMS",
+		"SftwNm": "ERP",
+		"SftwVers": "2.01",
+		"FuncCurCd": "USD",
+		"StdVers": "ISO 21378",
+		"ExtractedDt": "2020-03-01",
+		"TmZone": "+06:00",
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

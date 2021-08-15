@@ -1,0 +1,10 @@
+{
+	"BasCstmzdAccValue": [ {
+		"CstmzdAccValueCd": "AV1",
+		"CstmzdAccSgCd": "AS1",
+		"CstmzdAccValueNm": "Financial budget",
+		"AccValueDscr": "Planned sales and purchases.",
+		"ParAccValueCd": "AV1",
+		"CstmzdAccValueHrchy": 1
+	} ]
+}

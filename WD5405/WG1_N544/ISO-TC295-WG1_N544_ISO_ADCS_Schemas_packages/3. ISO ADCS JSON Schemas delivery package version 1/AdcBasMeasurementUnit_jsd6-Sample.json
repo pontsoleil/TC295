@@ -1,0 +1,8 @@
+{
+	"BasMeaUnit": [ {
+		"UomCd": "KG",
+		"UomNm": "Kilogram",
+		"UomAbrv": "kg",
+		"ActiveFlag": true
+	} ]
+}

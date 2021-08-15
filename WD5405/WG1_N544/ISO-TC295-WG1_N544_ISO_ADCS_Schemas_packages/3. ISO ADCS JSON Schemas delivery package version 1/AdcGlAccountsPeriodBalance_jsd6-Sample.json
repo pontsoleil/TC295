@@ -1,0 +1,54 @@
+{
+	"GlAcntPerBal": [ {
+		"GlAcntNr": "ACC123456789",
+		"FiscYr": 2020,
+		"AcntingPer": "M1",
+		"DbQt": 100.0000,
+		"CrQt": 100.0000,
+		"BegQt": 0.0000,
+		"EndQt": 0.0000,
+		"UomCd": "KG",
+		"BegBalInd": "C",
+		"EndBalInd": "C",
+		"AcntSgEmp": "E001",
+		"AcntSgProj": "P001",
+		"AcntSgBankAcnt": "NL99BANK1234123412",
+		"DbAmt": {
+			"FuncAmt": 125.1255,
+			"TrAmt": 125.1255,
+			"RprtAmt": 125.1255,
+			"LocAmt": 125.1255
+		},
+		"CrAmt": {
+			"FuncAmt": 125.1255,
+			"TrAmt": 125.1255,
+			"RprtAmt": 125.1255,
+			"LocAmt": 125.1255
+		},
+		"BalBegAmt": {
+			"FuncAmt": 125.1255,
+			"TrAmt": 125.1255,
+			"RprtAmt": 125.1255,
+			"LocAmt": 125.1255
+		},
+		"BalEndAmt": {
+			"FuncAmt": 125.1255,
+			"TrAmt": 125.1255,
+			"RprtAmt": 125.1255,
+			"LocAmt": 125.1255
+		},
+		"Cur": {
+			"FuncCurCd": "USD",
+			"TrCurCd": "USD",
+			"RprtCurCd": "USD",
+			"LocCurCd": "USD"
+		},
+		"AcntSg": [ {
+			"AcntSgNr": "1",
+			"AcntSgCd": "6900"
+		} ],
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

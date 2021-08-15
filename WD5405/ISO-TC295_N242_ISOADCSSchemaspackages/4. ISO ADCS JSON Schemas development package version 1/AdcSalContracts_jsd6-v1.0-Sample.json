@@ -1,0 +1,27 @@
+{
+	"SalContr": [ {
+		"ContrId": "C001",
+		"ContrNr": "C123456789",
+		"ContrTypNm": "Short-term",
+		"ContrBegDt": "2020-02-01",
+		"ContrEndDt": "2020-02-29",
+		"CustAcntId": "C00001",
+		"SalOrgCd": "BS001",
+		"SalprsnId": "E001",
+		"SetlMthdCd": "SC1",
+		"PayTermCd": "PT1",
+		"ContrTrCurCd": "USD",
+		"Stat": "NEW",
+		"Rmrk": "New short term contract.",
+		"Crea": {
+			"UserId": "JD",
+			"Dt": "2020-03-02"
+		},
+		"Aprv": {
+			"UserId": "JD"
+		},
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

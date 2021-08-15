@@ -1,0 +1,20 @@
+{
+	"PurRqstnDtls": [ {
+		"RqstnId": "R01",
+		"RqstnLnId": "1",
+		"RqstnLnNr": "1",
+		"PrdctId": "PRD001",
+		"RqstnDueDt": "2020-02-29",
+		"RqstnQt": 100.0000,
+		"AprvQt": 100.0000,
+		"PurUomCd": "KG",
+		"ProjId": "P001",
+		"SuplAcntId": "S00001",
+		"PurOrgCd": "BS001",
+		"RqstnOrgCd": "BS001",
+		"Stat": "In process",
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

@@ -1,0 +1,48 @@
+{
+	"ApPayMade": [ {
+		"PayId": "PM1234",
+		"PayNr": "123456789",
+		"SuplAcntId": "S00001",
+		"PurContrId": "C001",
+		"ProjId": "P001",
+		"JrnId": "JRN1",
+		"FiscYr": 2020,
+		"AcntingPer": "M1",
+		"PayDt": "2020-02-01",
+		"SetlMthdCd": "SC1",
+		"RefNr": "123456789",
+		"RefDt": "2020-02-15",
+		"AmtCrDbInd": "D",
+		"Rmrk": "Payment made",
+		"GlDbAcntNr": "ACC123456789",
+		"GlCrAcntNr": "ACC123456789",
+		"TrAmt": {
+			"FuncAmt": 125.1255,
+			"FuncCurCd": "USD",
+			"TrAmt": 125.1255,
+			"TrCurCd": "USD",
+			"RprtAmt": 125.1255,
+			"RprtCurCd": "USD",
+			"LocAmt": 125.1255,
+			"LocCurCd": "USD"
+		},
+		"Crea": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"Aprv": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"LstMdf": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

@@ -1,0 +1,25 @@
+{
+	"SalContrDtls": [ {
+		"ContrId": "C001",
+		"ContrLnId": "1",
+		"ContrLnNr": "1",
+		"SetlOrgCd": "SO1",
+		"DispOrgCd": "D001",
+		"PrdctId": "P001",
+		"ContrQt": 100.0000,
+		"UomCd": "KG",
+		"TaxExclUnitPrice": 80.00000000,
+		"TaxInclUnitPrice": 100.00000000,
+		"TaxExclAmt": 8000.0000,
+		"TaxInclAmt": 10000.0000,
+		"DueDt": "2020-02-29",
+		"Stat": "NEW",
+		"Tax": [ {
+			"TaxTypCd": "TAX01",
+			"TaxTrAmt": 200.0000
+		} ],
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

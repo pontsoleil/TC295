@@ -1,0 +1,47 @@
+https://iso.zoom.us/j/94134894309?pwd=c0JvL3N4bkdnRkYzQjZybXBDUnBXdz09
+Password: 135559
+
+
+
+1.
+Please take the time to read ISO/IEC Directives, Part 2  (https://www.iso.org/sites/directives/current/part2/index.xhtml#_idTextAnchor007), especially GENERAL PRINCIPLES 4 Objective of standardization, and answer how your current document meets these requirements. International Standards SHALL be drafted in accordance with the RULES given in the ISO/IEC Directives, Part 2.
+
+2.
+Please elaborate in detail that your design meets our business requirements on this page (https://www.sambuichi.jp/?p=4904&lang=en). This is my opinion and we need to agree on the priority of our business requirements.
+
+3.
+The Chinese national standard GB/T 24589.2-2010 for audit data collection is defined in XML Schema. Please elaborate on the improvements in your XML design in terms of business requirement of ADCS. They have been using this XML for decades and most accounting software, including Oracle, SAP and most of the softwares in China, is certified (https://www.oracle.com/assets/psf9-gbt24589-2-2010-en-2614698-zhs.pdf). We need to explain the design advantages over GB/T 24589.2-2010. You can see my opinion about GB on this page (https://www.sambuichi.jp/?p=2860&lang=en). 
+
+4.
+Certification is required in China for the software to generate audit data. We should consider what kind of certification ADCS need and what to test and how, if we need certification.
+
+5.
+If you do not define an ADCS logical data model, there is an ISO standard framework MDR, MFI and MOF. ISO 20022 (SWIFT) defined a meta model (part 1) and syntax mapping (part 4) using MOF. This is a standard way to define ISO documents. Check excerpt page at https://www.sambuichi.jp/?p=4873&lang=en.
+• ISO 15000-5:2014 Electronic Business Extensible Markup Language (ebXML) — Part 5: Core Components Specification (CCS)
+• ISO/IEC 19845:2015 Information technology — Universal business language version 2.1 (UBL v2.1)
+• ISO/IEC 11179, Information technology — Metadata registries (MDR)
+• ISO/IEC 19763, Information technology — Metamodel framework for interoperability (MFI)
+• ISO/IEC 19502:2005(en) Information technology — Meta Object Facility (MOF)
+• ISO 20022 Financial services — Universal financial industry message scheme
+    • Part 1: Metamodel
+    • Part 4: XML Schema generation
+
+6.
+Registration Authorities vs. Maintenance Agencies
+Last but not the least, ISO/TC 68 Financial Services has RAs and MAs to support frequent updating to elements  (https://committee.iso.org/sites/tc68/home/articles/content-left-area/articles/add-a-post-2.html).The common ISO method is that it defines the ISO standard documentation for the design framework, and the implementation of standard elements is updated in a timely manner by RA and/or MA. We should consider RA and/or MA.
+
+
+ISO/IEC Directives, Part 2, 2018
+4 Objective of standardization
+The objective of documents is to specify clear and unambiguous provisions in order to help international trade and communication. To achieve this objective, documents shall:
+• be complete within the limits specified by their scope;
+NOTE 1 When a document provides requirements or recommendations, these are either written explicitly, or made by reference to other documents
+• be consistent, clear and accurate;
+• be written using all available knowledge about the state of the art;
+• take into account the current market conditions;
+NOTE 2 There is sometimes a tension between what is technically feasible and what the market actually requires and is prepared to pay for.
+• provide a framework for future technological development;
+• be comprehensible to qualified people who have not participated in their preparation; and
+• conform to the ISO/IEC Directives, Part 2.
+A document does not in itself impose any obligation upon anyone to follow it. However, an obligation can be imposed, for example, by legislation or by a contract which makes reference to the document.
+A document shall not include contractual requirements (e.g. concerning claims, guarantees, covering of expenses) and legal or statutory requirements.

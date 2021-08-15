@@ -1,0 +1,36 @@
+{
+	"PpeDepre": [ {
+		"PpeId": "PPE001",
+		"FiscYr": 2020,
+		"AcntingPer": "M1",
+		"DepreMthdId": "DEP001",
+		"UsefulLife": 60,
+		"UsefulLifeRmng": 10,
+		"OriginalCost": 1700.0000,
+		"ResiValue": 100.0000,
+		"DprcblBasis": 1600.0000,
+		"DepreAmt": 1600.0000,
+		"AccumDepre": 1600.0000,
+		"CarryingAmt": 100.0000,
+		"DepreAcntNr": "ACC123456789",
+		"AccumDepreAccNum": "ACC123456789",
+		"Crea": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"Aprv": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"LstMdf": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}
