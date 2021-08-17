@@ -1,0 +1,16 @@
+{
+	"PurRqstn": [ {
+		"RqstnId": "R01",
+		"RqstnNr": "123456789",
+		"RqstnDt": "2020-02-01",
+		"Stat": "NEW",
+		"Rmrk": "New requisition",
+		"Crea": {
+			"UserId": "JD",
+			"Dt": "2020-03-02"
+		},
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

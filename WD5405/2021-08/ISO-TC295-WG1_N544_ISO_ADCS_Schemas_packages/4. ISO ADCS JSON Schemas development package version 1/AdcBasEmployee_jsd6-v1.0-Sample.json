@@ -1,0 +1,16 @@
+{
+	"BasEmp": [ {
+		"EmpId": "E001",
+		"EmpCd": "JD",
+		"EmpNm": "John Doe",
+		"InactiveFlag": false,
+		"EmpTypCd": "007",
+		"EmpTypNm": "part-time",
+		"DepCd": "BS001",
+		"EmpJobTitle": "Order handler.",
+		"EmpAcadDegree": "MBA",
+		"EmplmntDt": "1990-10-01",
+		"TerminationDt": "2050-10-01",
+		"UserId": "JD"
+	} ]
+}

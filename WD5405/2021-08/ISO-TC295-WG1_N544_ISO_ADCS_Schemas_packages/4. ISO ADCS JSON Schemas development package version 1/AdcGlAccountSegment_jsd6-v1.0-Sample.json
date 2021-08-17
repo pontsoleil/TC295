@@ -1,0 +1,10 @@
+{
+	"GlAcntSg": [ {
+		"GlAcntNr": "ACC123456789",
+		"AcntSgNr": "0",
+		"AcntSgNm": "Sales and Purchase",
+		"CorrFile": "BAS_Customized_ACC_Segment",
+		"AcntSgDscr": "Sales and purchase provit.",
+		"CstmzdAccSgCd": "AS1"
+	} ]
+}

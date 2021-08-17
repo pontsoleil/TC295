@@ -1,0 +1,13 @@
+{
+	"BasProj": [ {
+		"ProjId": "P001",
+		"ProjCd": "PROJ1234",
+		"ProjNm": "Renovation",
+		"ProjBegDt": "2020-02-01",
+		"ProjEndDt": "2020-02-29",
+		"ActiveFlag": true,
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

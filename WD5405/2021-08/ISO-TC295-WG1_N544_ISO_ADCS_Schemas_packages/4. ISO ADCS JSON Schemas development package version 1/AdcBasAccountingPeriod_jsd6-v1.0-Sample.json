@@ -1,0 +1,8 @@
+{
+	"BasAcntingPer": [ {
+		"FiscYr": 2020,
+		"AcntingPer": "M1",
+		"AcntingPerBegDt": "2020-02-01",
+		"AcntingPerEndDt": "2020-02-29"
+	} ]
+}

@@ -1,0 +1,8 @@
+{
+	"BasSuplTyp": [ {
+		"SuplTypId": "ST1",
+		"SuplTypCd": "004",
+		"SuplTypNm": "Preferred supplier",
+		"ParSuplTypId": "ST1"
+	} ]
+}

@@ -1,0 +1,9 @@
+{
+	"BasPayTerm": [ {
+		"PayTermCd": "PT1",
+		"PayTermNm": "Payment in 30 days.",
+		"PayTermLnNr": "1",
+		"PayTermLnDscr": "Payment date is 30 days after invoice date.",
+		"ActiveFlag": true
+	} ]
+}

@@ -1,8 +1,0 @@
-{
-	"BasBusSg": [ {
-		"BusSgCd": "BS001",
-		"BusSgNm": "Order administration.",
-		"SgRefLevel": "1",
-		"OrgTypNm": "Department"
-	} ]
-}

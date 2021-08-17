@@ -1,0 +1,43 @@
+{
+	"PpeRmv": [ {
+		"RmvId": "RM001",
+		"PpeId": "PPE001",
+		"FiscYr": 2020,
+		"AcntingPer": "M1",
+		"TagNr": "PPE001",
+		"RmvTypNm": "Sale",
+		"RmvDt": "2020-02-15",
+		"RmvReason": "Replacement",
+		"RmvQt": 1.0000,
+		"RmvOriginalCost": 1700.0000,
+		"RmvAccumDepre": 1600.0000,
+		"RmvImprProv": 100.0000,
+		"RmvResiValue": 100.0000,
+		"RmvCashPrcdsAmt": 100.0000,
+		"RmvNonCashPrcdsAmt": 0.0000,
+		"RmvExpns": 50.0000,
+		"UnrlzdGainLossAmt": 50.0000,
+		"RlzdGainLossAmt": 0.0000,
+		"FuncCurCd": "USD",
+		"UnrlzdGainLossAccNum": "ACC123456789",
+		"RlzdGainLossAcntNum": "ACC123456789",
+		"Crea": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"Aprv": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"LstMdf": {
+			"UserId": "JD",
+			"Dt": "2020-03-02",
+			"Tm": "09:31"
+		},
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

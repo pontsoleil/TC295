@@ -1,8 +1,0 @@
-{
-	"BasCur": [ {
-		"CurCd": "USD",
-		"CurNm": "US Dollars",
-		"MinorUnit": 2,
-		"ActiveFlag": true
-	} ]
-}

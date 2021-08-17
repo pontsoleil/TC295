@@ -1,0 +1,12 @@
+{
+	"InvPrdctTyp": [ {
+		"InvPrdctTypId": "PRDT1",
+		"InvPrdctTypCd": "01",
+		"InvPrdctTypNm": "Raw materials",
+		"InvPrdctTypDscr": "Sand and stones.",
+		"ParInvPrdctTypId": "PRDT1",
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

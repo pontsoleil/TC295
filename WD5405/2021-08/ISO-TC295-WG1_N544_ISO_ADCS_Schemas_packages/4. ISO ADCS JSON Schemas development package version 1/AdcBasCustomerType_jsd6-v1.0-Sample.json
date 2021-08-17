@@ -1,0 +1,8 @@
+{
+	"BasCustTyp": [ {
+		"CustTypId": "CT1",
+		"CustTypCd": "004",
+		"CustTypNm": "Large customer.",
+		"ParCustTypId": "CT1"
+	} ]
+}

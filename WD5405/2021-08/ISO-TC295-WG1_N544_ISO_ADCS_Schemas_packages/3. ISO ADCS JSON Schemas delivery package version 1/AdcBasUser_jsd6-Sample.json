@@ -1,0 +1,11 @@
+{
+	"BasUser": [ {
+		"UserId": "JD",
+		"UserActiveStat": true,
+		"UserStatMdfDt": "1990-10-01",
+		"UserNm": "John Doe",
+		"UserJobTitle": "Order handler.",
+		"DepCd": "BS001",
+		"UserRoleResp": "Orders and invoices."
+	} ]
+}

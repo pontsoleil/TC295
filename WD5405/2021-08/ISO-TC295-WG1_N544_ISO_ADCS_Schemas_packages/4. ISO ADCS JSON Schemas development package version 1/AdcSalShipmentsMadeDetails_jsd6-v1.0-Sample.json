@@ -1,0 +1,20 @@
+{
+	"SalShpMadeDtls": [ {
+		"ShpId": "SH1234",
+		"ShpDocLnId": "1",
+		"ShpDocLnNr": "1",
+		"PrdctId": "PRD001",
+		"ShpngQt": 100.0000,
+		"ShpngUomCd": "KG",
+		"ShpngUnitPrice": 80.00000000,
+		"ShpngLnTrAmt": 8000.0000,
+		"SalOrdLnId": "1",
+		"SalOrdLnQt": 100.0000,
+		"OrdLnUomCd": "KG",
+		"OrdLnUnitPrice": 80.00000000,
+		"OrdLnTrAmt": 8000.0000,
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

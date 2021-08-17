@@ -1,0 +1,29 @@
+{
+	"GlTrialBal": [ {
+		"GlAcntNr": "ACC123456789",
+		"FiscYr": 2020,
+		"AcntingPer": "M1",
+		"BalAsOfDt": "2020-02-29",
+		"Cur": {
+			"FuncCurCd": "USD",
+			"TrCurCd": "USD",
+			"RprtCurCd": "USD",
+			"LocCurCd": "USD"
+		},
+		"BalBegAmt": {
+			"FuncAmt": 125.1255,
+			"TrAmt": 125.1255,
+			"RprtAmt": 125.1255,
+			"LocAmt": 125.1255
+		},
+		"BalEndAmt": {
+			"FuncAmt": 125.1255,
+			"TrAmt": 125.1255,
+			"RprtAmt": 125.1255,
+			"LocAmt": 125.1255
+		},
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

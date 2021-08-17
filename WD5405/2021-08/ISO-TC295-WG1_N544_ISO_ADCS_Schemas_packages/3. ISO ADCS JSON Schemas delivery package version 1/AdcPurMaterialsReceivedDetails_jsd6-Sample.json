@@ -1,0 +1,20 @@
+{
+	"PurMatRcvdDtls": [ {
+		"RcptId": "RC1234",
+		"RcptLnId": "1",
+		"RcptLnNr": "1",
+		"PrdctId": "PRD001",
+		"RcptQt": 100.0000,
+		"RcptUomCd": "KG",
+		"RcptUnitPrice": 80.00000000,
+		"RcptLnTrxAmt": 8000.0000,
+		"PurOrdLnId": "1",
+		"PurOrdLnQt": 100.0000,
+		"OrdLnUomCd": "KG",
+		"OrdLnUnitPrice": 80.00000000,
+		"OrdLnTrAmt": 8000.0000,
+		"BusSg": [ {
+			"BusSgCd": "BS001"
+		} ]
+	} ]
+}

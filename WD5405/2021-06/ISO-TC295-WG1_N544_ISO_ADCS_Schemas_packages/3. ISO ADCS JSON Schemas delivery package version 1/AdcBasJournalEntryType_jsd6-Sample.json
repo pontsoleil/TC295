@@ -1,8 +1,0 @@
-{
-	"BasJrnEntryTyp": [ {
-		"JeTypCd": "JE001",
-		"JeTypNm": "Sales and purchase.",
-		"JeTypAbrv": "S&P",
-		"ActiveFlag": true
-	} ]
-}
